@@ -7,7 +7,7 @@ const siteMetadata = {
     "This is the development documentation for the Permissive Commons Ontology Solutions.",
   twitterName: "webcivics",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "pct-devdocs.webcivics.org",
+  siteUrl: "https://pct-devdocs.webcivics.org",
 };
 module.exports = {
   siteMetadata,
