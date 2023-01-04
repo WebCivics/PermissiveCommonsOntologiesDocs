@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://pct-devdocs.webcivics.org/sitemap/sitemap-index.xml
+Host: https://pct-devdocs.webcivics.org
