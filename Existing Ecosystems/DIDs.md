@@ -1,8 +1,27 @@
-The concept of Decentralised IDentifiers was first raised on the [W3C WebPayments Mailing list in 2014 by Manu Sporny](https://lists.w3.org/Archives/Public/public-webpayments/2014May/0033.html)
+The concept of Decentralised IDentifiers was first raised on the [W3C WebPayments Mailing list in 2014 by Manu Sporny](https://lists.w3.org/Archives/Public/public-webpayments/2014May/0033.html) who originally registered the [URI Scheme with IANA](https://web.archive.org/web/20181225121742/https://www.iana.org/assignments/uri-schemes/prov/did)
 
 (whilst i'm noted - often the context of these calls was that they were held in the early hours of the morning (ie: 3AM Sydney/AU Time)).
 
 whilst the works have developed significantly, there are some particular use-cases relating to a concept called [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) that has been the primary focus of these works.
+
+Whilst i am supportive of the use of a method to support non-http uris for resources that make use of linked data / RDF and related ecosystem technologies, i am presently unsure whether and/or how well, the DID specifications now provide a fit-for-purpose solution, and there's been some fairly emotionally explosive history, relating to the history of this tech.
+
+- IANA: https://www.iana.org/assignments/uri-schemes/prov/did 
+- IETF https://datatracker.ietf.org/doc/html/draft-mayrhofer-did-dns-05
+- W3C
+	- Methods Registry: HTML: https://w3c.github.io/did-spec-registries/#did-methods 
+	- Methods Registry: GitHub: https://github.com/w3c/did-spec-registries/
+	- W3C Working Group: https://www.w3.org/2019/did-wg/
+	- W3C Credentials CG: https://github.com/w3c-ccg/community/blob/main/work_items.md 
+- DIF:  https://identity.foundation/ 
+- ID2020: https://id2020.org/
+- Trust Over IP: https://trustoverip.org/
+- Mastercard 
+- GS1: 
+- Microsoft: https://www.microsoft.com/en-us/security/business/solutions/decentralized-identity
+
+and many others...  (note; [DID methods registry](https://github.com/w3c/did-spec-registries/tree/main/methods))
+
 
 ### Bit of History.
 I was involved with the beginnings of this work, whereby i particularly supported Manu Spory as the Brains Trust for this and related works.  The earlier history involved works on [Web Payments Standards](https://www.w3.org/community/webpayments/) which led to [Credentials CG](https://www.w3.org/community/credentials/2014/08/06/call-for-participation-in-credentials-community-group/) which was originally focused on Verifiable Claims and improving the [[Open Badges]] standards; which overtime led to DIDs.
@@ -35,5 +54,57 @@ This document specifies the DID syntax, a common data model, core properties, se
 
 Source: [W3C DID CORE Spec Document](https://www.w3.org/TR/did-core/)
 
+## Concerns
 
-NOTE:  These works are only loosely coupled to the psychological concept of [Disassociative Identity Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder) particularly with respect to the [[Webizen]] and [[Peace Infrastructure Project]] scope of works which actively seeks to address [[Social Attack Vectors]] related issues; including but not limited to Human Trafficking ( Note: [UNODC: Anti-Human Trafficking Manual for Criminal Justice Practitioners](https://www.unodc.org/unodc/en/human-trafficking/2009/anti-human-trafficking-manual.html) ) and other forms of abuse that are closely tied to Severe Mental Illness as defined by the [DSM](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders) publications; including but not limited to DID.
+I am particularly concerned about the idea of 'private webs', particularly those built solely upon blockchains - leading to, what many may consider to be 'unintended consequences'.  Intended or otherwise, the consideration is that its best to advoid unwanted consequences.
+
+As the [DID methods registry](https://github.com/w3c/did-spec-registries/tree/main/methods) somewhat already demonstrates; there has seemingly been a rush to obtain namespaces; and this may in-turn illustrate what may be considered, problematic circumstances.  For instance; the Namespace defined as [did:health](https://github.com/w3c/did-spec-registries/commit/347608e6903fd2c9cc867e6949a86f615f1db266) refers to the information noted below
+
+```
+
+{
+  "name": "health",
+  "status": "registered",
+  "verifiableDataRegistry": "DID Health",
+  "contactName": "support",
+  "contactEmail": "support@did.healthcare",
+  "contactWebsite": "https://www.did.healthcare/",
+  "specification": "https://github.com/didhealth/health-did-resolver/blob/main/doc/did-method-spec.md"
+}
+
+```
+
+Then, when going to https://www.did.healthcare/ the site is redirected to: https://rimmo.co/ (an e-commerce shop)
+
+In the example for the term [DID:ID](https://github.com/w3c/did-spec-registries/commit/1fdde3119fd968b496f5ab104994eea09222ffef), the method is registered to Mastercard.
+
+``` 
+
+{
+    "name": "id",
+    "status": "registered",
+    "verifiableDataRegistry": "ID Service",
+    "contactName": "Mastercard",
+    "contactEmail": "",
+    "contactWebsite": "https://idservice.com/en/contactus.html",
+    "specification": "https://github.com/Mastercard/did-methods/blob/master/id.md"
+}
+
+```
+
+There are other examples; yet, yet without spending more time on the details; it may well be that the way the `did` specification has been developed, are not fit for purpose for PCT-ONT.
+
+Nonetheless, more investigation is required to better evaluate the decentralised nature of decentralised identifiers, etc. 
+
+As noted, I was personally very emotional about the global rollout of 'vaccine passports' and the entire situation disaffected me greatly, as such i do have personal views - which i am entitled to have and express - whilst seeking to do so, clearly - rather than doing otherwise.
+
+*NOTE:  These works are only loosely coupled to the psychological concept of [Disassociative Identity Disorder](https://en.wikipedia.org/wiki/Dissociative_identity_disorder) particularly with respect to the [[Webizen]] and [[Peace Infrastructure Project]] scope of works which actively seeks to address [[Social Attack Vectors]] related issues; including but not limited to Human Trafficking ( Note: [UNODC: Anti-Human Trafficking Manual for Criminal Justice Practitioners](https://www.unodc.org/unodc/en/human-trafficking/2009/anti-human-trafficking-manual.html) ) and other forms of abuse that are closely tied to Severe Mental Illness as defined by the [DSM](https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders) publications; including but not limited to DID.*
+
+##### jurisdictions 
+
+In-order to support inter-national world order, whereby each UN recgonised member state (at a minimum) is supported in being provided the means to manage their electronic affairs domestically; particularly where such sorts of requirements relate to such things as legislative records, then i am unsure how a URI structure registered by an organisation like Mastercard may reasonably support the [[Centricity]] related requirements - at this time...  Perhaps there's something that i've missed and simply do not understand, however, it is not obvious to me how these solutions provide support for sovereignty in any meaningful way broadly. 
+
+### Possible Solutions - A Draft Note
+
+The underlying methodology for defining how a decentralised ontology (PCT-ONT) standards compatible system works, may simply provide a series of ontological references that in-turn enable the client (end users) to get the resource from whatever network they prefer to use themselves; thereby, leading to a situation where the information can be collected from a range of different networks, rather than solely being available on one network (ie: DID:ID).
+

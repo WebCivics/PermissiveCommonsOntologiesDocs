@@ -1,7 +1,7 @@
-
 The Concept of 'centricity' refers to structuring a way of thinking about the socially-interactive semantics layers.  This conceptual framework seeks to provide support for the values frameworks the webizen environments are built to support.  In-effect, providing some of the foundational considerations or 'tenants' to a form of moral framework, that helps to inform design requirements.
 
 ### Human Centric
+
 The development of any tools, whether it be companies or things; is intended to support the needs of humanity and/or members of our human family, and through us, our Social Spheres([SocioSphere Ontologies](SocioSphere%20Ontologies.md)) and the use of resources, our role in our Biosphere ([Biosphere Ontologies](Biosphere%20Ontologies.md)).  No other form of agent can be sent to prison.  The responsibility for what occurs in our world is fundamentally held by Human Beings.  
 
 Whilst there are always complexities involved in almost any circumstance and indeed also the evaluation of that circumstance by others; the fundamental role of technology is to provide useful tools for human beings, to improve and manage their relationships with other agents; both as an active natural agent, and as an observer.  
