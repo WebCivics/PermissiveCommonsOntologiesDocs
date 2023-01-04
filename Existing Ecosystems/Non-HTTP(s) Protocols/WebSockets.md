@@ -1,0 +1,5 @@
+WebSockets is a protocol that enables full-duplex, real-time communication between a web browser and a server over a single, long-lived connection. It is designed to be simple, fast, and efficient, and it is intended to enable a wide range of real-time communication applications and services on the web.
+
+The WebSockets protocol is based on the TCP/IP (Transmission Control Protocol/Internet Protocol) protocol, which is the foundation of the internet. It is designed to be highly efficient and scalable, and it is supported by most modern web browsers and servers.
+
+Some examples of applications that might use WebSockets include real-time data transfer, online gaming, and chat applications. WebSockets is supported by a large and active community of developers and users, and it is considered a key technology for the development of the decentralized web (Web 3.0) and other emerging technologies.

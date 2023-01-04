@@ -1,0 +1,5 @@
+WebTorrent is a decentralized, peer-to-peer file sharing protocol that is designed to enable users to share and collaborate on files in a decentralized way, without the need for a central server or authority.
+
+The WebTorrent protocol is based on the BitTorrent protocol, which is a widely-used, decentralized file sharing protocol that enables users to share large files with each other over the internet. Like the BitTorrent protocol, WebTorrent is designed to be efficient, fast, and scalable, and it is intended to be a building block for a wide range of applications and services that require decentralized file sharing and distribution.
+
+Some examples of applications that might use the WebTorrent protocol include decentralized file sharing systems, distributed databases, and decentralized social networks. The WebTorrent protocol is also expected to play a significant role in the development of the decentralized web (Web 3.0) and other emerging technologies. It is supported by a large and active community of developers and users.

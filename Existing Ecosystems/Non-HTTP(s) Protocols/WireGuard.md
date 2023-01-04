@@ -1,0 +1,5 @@
+WireGuard is a free and open-source software application and communication protocol that is designed to be a fast, simple, and secure VPN (Virtual Private Network) solution. It is intended to be easy to use and configure, and it is designed to be efficient and lightweight, making it well-suited for use on a wide range of devices, including smartphones, tablets, and computers.
+
+WireGuard is based on modern cryptographic techniques, such as public key authentication and perfect forward secrecy, which are designed to provide strong security and privacy protection for VPN users. It is also designed to be fast and efficient, with a focus on simplicity and ease of use.
+
+WireGuard is supported by a large and active community of developers and users, and it is considered a promising technology for the development of the decentralized web (Web 3.0) and other emerging technologies. It is supported on a wide range of platforms and operating systems, including Linux, iOS, Android, and Windows.

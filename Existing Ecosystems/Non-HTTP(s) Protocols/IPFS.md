@@ -1,0 +1,5 @@
+IPFS (InterPlanetary File System) is a decentralized, peer-to-peer protocol for sharing and distributing files. It is designed to enable users to share and collaborate on files in a decentralized way, without the need for a central server or authority.
+
+The IPFS protocol is based on a number of key technologies, including the BitTorrent protocol, the Kademlia distributed hash table (DHT), and the Merkle DAG (Directed Acyclic Graph). It is designed to be efficient, fast, and scalable, and it is intended to be a building block for a wide range of applications and services that require decentralized file sharing and distribution.
+
+Some examples of applications that might use the IPFS protocol include decentralized file sharing systems, distributed databases, and decentralized social networks. The IPFS protocol is also expected to play a significant role in the development of the decentralized web (Web 3.0) and other emerging technologies.

@@ -1,0 +1,5 @@
+[Gun.Eco](Gun.Eco) is a decentralized database system that is built on top of the Gun database. It is designed to enable users to store, retrieve, and manipulate data in a decentralized way, without the need for a central server or authority.
+
+Gun.Eco is intended to be an alternative to traditional centralized database systems, and it is designed to be scalable, fast, and efficient. It is based on a number of key technologies, including the Gun database, the WebSocket protocol, and the Interledger Protocol (ILP).
+
+Gun.Eco is intended to be a building block for a wide range of applications and services that require decentralized data storage and management. Some examples of applications that might use Gun.Eco include decentralized social networks, distributed file sharing systems, and decentralized databases. It is also expected to play a significant role in the development of the decentralized web (Web 3.0) and other emerging technologies.

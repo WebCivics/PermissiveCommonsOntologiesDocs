@@ -1,0 +1,1 @@
+ [Sparql Family](Sparql%20Family.md) is the intended native method for the platform.

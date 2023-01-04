@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "c6f8e5151de5e7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3645010841a1198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b46fc4f8c3bb70e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use-cases/Peace Infrastructure Project/About the Peace Infrastructure Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d951154fcc230db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About/Ontology Modelling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdd958ce339fcbba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work in Progress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f73b42633151e4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existing Ecosystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e6fcf387751b5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "use-cases/Webizen/PCT-Webizen Tech Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6750840c02b778a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Requirements/Business-Cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7bdac0579014577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfacb8e73285dccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d29b5b69e82f77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Existing Ecosystems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efea64deab7ac825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permissive Commons/Permissive Commons Tech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdf8af65c84c474f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05f081f9fbe1ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "babd22ffc94d5135",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ef892de9c5f368b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "permissive commons",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f51ec25c2b5ae79e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "2371abb59f8fed94",
+    "type": "split",
+    "children": [
+      {
+        "id": "e778cbe77b2dca81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c87fb059057fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0d62bd7b3fd1556",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6af2e9abaa646a69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b15b43b1dfc456dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+    }
+  },
+  "active": "a7bdac0579014577",
+  "lastOpenFiles": [
+    "use-cases.md",
+    "About/Web Science.md",
+    "About/old-work-archives/SchemaGen Notes.md",
+    "Requirements/Business-Cases.md",
+    "use-cases/Webizen/PCT-Webizen Tech Stack.md",
+    "Requirements/PCT-Core-Services.md",
+    "Requirements/Engineering Considerations/Temporal Semantics.md",
+    "use-cases/Webizen/Economic Systems/Centricity.md",
+    "use-cases/Webizen/Host Service Requirements/Authentication Fabric.md",
+    "use-cases/Webizen/Economic Systems.md"
+  ]
+}

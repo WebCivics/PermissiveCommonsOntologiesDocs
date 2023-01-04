@@ -1,0 +1,5 @@
+WebRTC (Web Real-Time Communication) is a set of standards and protocols that enable real-time communication over the web. It allows web browsers and other web-based applications to communicate with each other in real time using simple APIs (Application Programming Interfaces).
+
+WebRTC is designed to be simple, fast, and efficient, and it is intended to enable a wide range of real-time communication applications and services on the web. Some examples of applications that might use WebRTC include video conferencing, voice over IP (VoIP), and real-time data transfer.
+
+WebRTC is supported by most modern web browsers, and it is supported by a large and active community of developers and users. It is considered a key technology for the development of the decentralized web (Web 3.0) and other emerging technologies, and it is expected to play a significant role in the future of real-time communication on the web.

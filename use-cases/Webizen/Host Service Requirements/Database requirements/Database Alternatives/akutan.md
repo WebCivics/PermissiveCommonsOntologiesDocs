@@ -1,0 +1,2 @@
+https://github.com/eBay/akutan
+Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store. Knowledge graphs are suitable for modeling data that is highly interconnected by many types of relationships, like encyclopedic information about the world. A knowledge graph store enables rich queries on its data, which can be used to power real-time interfaces, to complement machine learning applications, and to make sense of new, unstructured information in the context of the existing knowledge.

@@ -1,0 +1,1 @@
+Most JSON (or JSON-LD) related app developers use and/or understand GraphQL (not sparql). 
