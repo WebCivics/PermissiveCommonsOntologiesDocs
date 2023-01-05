@@ -19,17 +19,17 @@ The alternative that i've used is described below;
 
 1. Github: 
 	a. A user needs to set-up a [GitHub](https://github.com/) account. 
-	b. then they need to set-up a github repo to publish their documents #website 
+	b. Then they need to set-up a github repo to publish their documents #website 
 	c. The user then needs to set-up [GitHub Pages](https://pages.github.com/). Make sure you set the pages link to the gh-pages branch.  Decide whether you want to use the github provided address or add a cname to the dns records of your domainname, sync and add ssl.
-	d. Then they need to download [GitHub Desktop](https://github.com/) and clone the repo to a local storage location.
+	d. Then they need to download [GitHub Desktop](https://github.com/) and clone the repo to a local storage location. 
 
 2. Download and install [vscode](https://code.visualstudio.com/)
 
 3. Obsidian Gatsby Website Template.
 	e. I've used the [Obsibian Template for Gatsby Theme Primer Wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/)goto the link and download the zip file.
-	f. upzip the files and copy to the local directory you've created using GitHub Desktop. Then goto GitHub Desktop and right click on the project - selecting the option 'open in visual studio code'
-	g. edit the ```.layouts/gatsby-config.js``` file to replace the information entered about the author of the template, with the information about your own project / site then save.
-	h. goto ```.layouts/static``` and edit the ```CNAME``` file with your own information then save; and then, create a logo and replace ```logo.png```.
+	f. Upzip the files and copy to the local directory you've created using GitHub Desktop. Then goto GitHub Desktop and right click on the project - selecting the option 'open in visual studio code'
+	g. Edit the ```.layouts/gatsby-config.js``` file to replace the information entered about the author of the template, with the information about your own project / site then save.
+	h. Goto ```.layouts/static``` and edit the ```CNAME``` file with your own information then save; and then, create a logo and replace ```logo.png```.
 		
 4. Download and install Obsidian
 	a. Once obsidian is installed, a screen will come-up and one of the options will be to 'open folder as vault'.  Do that, and find the folder that you've created using github desktop for the gatsby files.  Open it. 

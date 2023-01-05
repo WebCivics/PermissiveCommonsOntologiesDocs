@@ -92,6 +92,9 @@ In the example for the term [DID:ID](https://github.com/w3c/did-spec-registries/
 
 ```
 
+
+note also: https://github.com/microsoft/did-ccf/blob/main/DID_CCF.md
+ 
 There are other examples; yet, yet without spending more time on the details; it may well be that the way the `did` specification has been developed, are not fit for purpose for PCT-ONT.
 
 Nonetheless, more investigation is required to better evaluate the decentralised nature of decentralised identifiers, etc. 

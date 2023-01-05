@@ -2,9 +2,9 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "Permissive Commons Development Documentation.",
-  shortName: "PCT-ONT Docs",
+  shortName: "PCT Docs",
   description:
-    "This is the development documentation for the Permissive Commons Ontology Solutions.",
+    "This is the development documentation for the Permissive Commons Technology Solutions.",
   twitterName: "webcivics",
   imageUrl: "/graph-visualisation.jpg",
   siteUrl: "https://pct-devdocs.webcivics.org",

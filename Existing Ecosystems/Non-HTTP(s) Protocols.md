@@ -13,21 +13,18 @@ Some examples include; in no particular order,
 - [[obyte]]
 - [[XRP Ledger]]
 - [[NYM]]
+- [DAT](DAT.md)
+- [IPFS](IPFS.md)
+- [WebTorrent](WebTorrent.md)
+- [GIT](GIT.md) as is used for GitHub / GitLab, etc. 
 
 Obviously also, there's also major 'crypto currency' focused protocols like [BitCoin](https://en.wikipedia.org/wiki/Bitcoin) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum).  
 
 Others, are still useful and important; but not DLTs, for example,
 
 - [GUNECO](GUNECO.md)
-- [DAT](DAT.md)
-- [IPFS](IPFS.md)
-- [WebTorrent](WebTorrent.md)
-- [GIT](GIT.md) as is used for GitHub / GitLab, etc. 
-- [WebRTC](WebRTC.md) As is used for Live Audio/Video Streaming
-- [WebSockets](WebSockets.md) As is used for real-time notifications
-- [Email Services](Email%20Services.md) As does somewhat need to be supported somehow in the ecosystem.
 
-and there are many others. 
+This list is incomplete. 
 
 The methods are not seeking to suggest that any particular protocol (ie: web3 stuff) shouldn't be supported; but rather, that the design of these webizen systems requires HTTP(s) support. 
 

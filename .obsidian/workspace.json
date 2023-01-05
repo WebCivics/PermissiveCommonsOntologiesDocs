@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Existing Ecosystems/DIDs.md",
+                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "926f6c1211fd8537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About/Social Factors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cent",
+                "query": "Chomsky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Existing Ecosystems/DIDs.md",
+                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Existing Ecosystems/DIDs.md",
+                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,12 +174,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Existing Ecosystems/DIDs.md"
+                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,17 +195,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "402cfdb40af56201",
+  "active": "babd22ffc94d5135",
   "lastOpenFiles": [
-    "use-cases/Webizen/Economic Systems/Centricity.md",
-    "Work in Progress/Permissive Commons Requirements.md",
-    "About/Decentralised Ontologies.md",
-    "Work in Progress/Ontology Education.md",
-    "Work in Progress/Collect Existing Ontologies.md",
-    "use-cases/Peace Infrastructure Project.md",
-    "use-cases/Webizen.md",
-    "About/Web Science.md",
-    "About/Ontology Modelling.md",
-    "About/Understanding Ontologies.md"
+    "README.md",
+    "About/Social Factors.md",
+    "Existing Ecosystems/Non-HTTP(s) Protocols.md",
+    "Existing Ecosystems/Non-HTTP(s) Protocols/WebRTC.md",
+    "Existing Ecosystems/Non-HTTP(s) Protocols/WireGuard.md",
+    "Existing Ecosystems/Non-HTTP(s) Protocols/WebSockets.md",
+    "Work in Progress.md",
+    "Documentation Method.md",
+    "About/What are 'The Commons'.md",
+    "Existing Ecosystems/Open-Data.md"
   ]
 }

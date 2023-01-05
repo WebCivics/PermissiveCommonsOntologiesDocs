@@ -4,7 +4,7 @@ This is where i'll put information about the work in progress.  This Website / r
 
 This documentation environment has been built using [Obsidian](https://obsidian.md/), [GitHub](https://github.com/), [Gatsby](https://www.gatsbyjs.com/) and the [Obsidian Template for Gatsby](Obsibian Template for Gatsby).  The [[Documentation Method]] document explains how its done.
 
-The process of producing the documentation; includes,
+The process of producing the documentation; will include output to address,
 
 1. [[About]] Docs: General information about the Permissive Commons Project. 
 	a. Information about Ontologies.
@@ -42,5 +42,7 @@ NOTE:  This documentation environment does not easily provide RDF related functi
 2. Existing Ontologies often refer to URIs that no-longer exist.  other ontologies are very old and now out dated.  A respectful approach to resolving these sorts of issues is desirable.
 
 3. Whilst the ChatGPT Content provides a helpful start to writing content about a topic, it does need to be updated and reviewed; as such, the new pages where this has been used needs to be reviewed (when i get there)...  It has been found to provide garbage RDF relations when providing ontology related results; whilst also providing valuably useful support, for radically improving the productivity metrics for producing ontology works generally. 
+
+5. There's alot of work required to identify and thereafter create useful feature / functionality charts that relate to the functionality of various different types of [[Non-HTTP(s) Protocols]] relating to decentralisation of informatics.  I suspect this will take sometime to do well.
 
 
