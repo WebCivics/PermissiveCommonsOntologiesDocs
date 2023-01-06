@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3645010841a1198",
+        "id": "badb117f10288ce6",
         "type": "tabs",
         "children": [
           {
-            "id": "2b46fc4f8c3bb70e",
+            "id": "c5f78ca68b9f5a59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work in Progress/Cognative AI.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "temporal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work in Progress/Cognative AI.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work in Progress/Cognative AI.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work in Progress/Cognative AI.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,17 +147,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "2b46fc4f8c3bb70e",
+  "active": "c5f78ca68b9f5a59",
   "lastOpenFiles": [
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Commercial Exploitation.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
+    "use-cases/Peace Infrastructure Project/Safety Protocols.md",
+    "use-cases/Webizen/Economic Systems/Webizen Alliance/The Webizen Charter.md",
+    "Work in Progress/Cognative AI.md",
+    "use-cases/Peace Infrastructure Project/Safety Protocols/Values Credentials.md",
     "use-cases/Peace Infrastructure Project/Safety Protocols/Human Centric AI.md",
     "use-cases/Peace Infrastructure Project/Social Attack Vectors/Fake News.md",
     "About/old-work-archives/Value Accounting Initiatives.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dishonesty.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dehumanisation.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Temporal Attacks.md",
-    "Work in Progress/Minimum Wages.md",
-    "Permissive Commons/Problem Statement.md",
-    "Permissive Commons/Permissive Commons Tech.md"
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dishonesty.md"
   ]
 }

@@ -2,7 +2,13 @@
 
 Permissive Commons Technology changes the way commons knowledge is managed on the internnet.  The intended purpose of it is act to decentralise commons resources and extends existing works on 'open-data' alongside other decentralised software projects whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.  
 
-This is basically a type of work that is a form of [[What is Web Science]] related fields of expertise.
+If you'd like to get involved the main community channel is presently via the [Web Civics Discord Group](https://discord.gg/HX7W4gY45N)
+
+There is also a [Peace Infrastructure Project Group on LinkedIn](https://www.linkedin.com/groups/14114713/)  and a [Human Centric AI Interest Group on Facebook](https://www.facebook.com/groups/humancentric.ai.tech), alongside various other channels (info to be provided later)
+
+> *Indeed to some-extent, its hoped that the Webizen Systems will be up and running soon, which will have the effect of streamlining how to engage with topics - yet - to achieve this objective, the permissive commons technology work needs to be done to support it.*
+> 
+> *This project, is basically a type of work that is a form of [[What is Web Science]] related fields of expertise, as it requires a multidisciplinary approach to incorporate considerations and expertise from various minds / souls...*
 
 Permissive Commons related documents;
 - [[Permissive Commons Tech]]

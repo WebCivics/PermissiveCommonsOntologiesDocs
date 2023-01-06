@@ -8,6 +8,7 @@ Dishonesty, Usury, Exploitation, Abuse, Malfesence, Social Harms, Deceptive & Mi
 
 So far, i have been able to produce some materials that cover the following sub-topics,
 
+- [[Commercial Exploitation]]
 - [[Attacks Online]]
 - [[Criminal Activity]]
 - [[Public Sector Wrong Doings]]
@@ -16,8 +17,6 @@ So far, i have been able to produce some materials that cover the following sub-
 - [[Temporal Attacks]]
 
 There is an enormous amount of work to be done in relation to this area, and it will take some time.  I also find it to be emotionally exhausting (as noted below); in the meantime, here are some of my thoughts on considerations related to this area of work that is importantly done, to an appropriate level, as to thereafter ensure solutions are illustratively equipped to demonstrate how the ecosystems are intended to work to put a stop to it and/or provide vastly improved means for accessibility to lawful remedy for disaffected persons.  
-
-
 
 #### Introduction: Purpose
 
@@ -71,9 +70,6 @@ So, this document and the related group of additional documents on related topic
 Whilst work to more appropriately illustrate the somewhat exhaustive nature of how various types of attack vectors are all too often gainfully employed by bad people and those who've been misled by bad people; none of it is simple, and people who have developed to become professionals in the field employ extremely well-developed and complex methodologies to achieve their objectives - which are generally for personally gainful purposes, at the material expense of others, that may well have consequences relating to serious injury, impairment, disability and/or death of their targets.  These sorts of attacks are not simple, and can often evolve in a manner that leads to many different actors getting involved in a broader 'agenda' that serves the interest (at least initially) of the would-be beneficiary.  
 
 The consequences are often defined by law to constitute an emboidment of actions and/or behaviours that may be thereby considered an alledged crime; and whilst the proper venue to sort these sorts of things out is a court of law, the apparatus to ensure that avenue for lawful remedy be available, is often actively discouraged by an array of parties; not simply those well known to be involved in crime and/or organised crime.  
-
-
-
 
 
 ### ChatGPT Contributions

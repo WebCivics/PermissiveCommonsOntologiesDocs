@@ -1,6 +1,8 @@
 There is a balance between absolute security and secrecy / privacy vs. social needs, to uphold basic values.  The method considered most feasible to address this difficult balance, is emboided by the concept of creating Safety protocols.
 
-The Safety Protocols requirement will end-up being defined in-full to be interoperable terms with by [The Webizen Charter](The%20Webizen%20Charter.md). 
+The Safety Protocols are intended to provide solutions that address the [[Social Attack Vectors]] alongside other issues that are known to exist, that may not be clearly illustrated as one of those types of attack vectors - but most certainly also, would relate to crime, wrong-doings and/or the need to have some sort of safety protocol in-order to support the safety of persons (particularly therein children)
+
+The Safety Protocols requirement will end-up being defined in-full to be interoperable terms with by [[The Webizen Charter]] and the use of works produced by Web Civics outside of the scope of Webizen, will have something similarly applied to support [[Peace Infrastructure Project]] related requirements.  
 
 The Effect of developing 'safety protocols' is instrumental to providing a means to develop a decentralised social-web framework that supports values based networking between agents (people) in a way that supports the recgonition and use of declared values, to provide support for agents to provide the necessary social protections needed, to be able to create safe decentralised online environments.   
 
