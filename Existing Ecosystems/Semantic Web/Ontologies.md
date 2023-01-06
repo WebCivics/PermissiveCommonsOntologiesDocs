@@ -56,4 +56,4 @@ Some resources have been provided to help people better [[Understanding Ontologi
 9.  Sustainability: The ontology should be designed with sustainability in mind, taking into account the long-term maintenance and evolution of the AI system. This can help to ensure that the system is able to continue to serve the needs of users over time.
     
 
-Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[Web Science]].
+Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[What is Web Science]].

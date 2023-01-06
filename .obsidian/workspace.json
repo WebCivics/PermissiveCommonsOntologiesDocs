@@ -13,62 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use-cases/Peace Infrastructure Project/Safety Protocols/Human Centric AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "402cfdb40af56201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "926f6c1211fd8537",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About/Social Factors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc1b3f13730e5472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existing Ecosystems/W3C Credentials CG.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f73b42633151e4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Existing Ecosystems.md",
+                "file": "Work in Progress/Cognative AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Chomsky",
+                "query": "temporal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
+                "file": "Work in Progress/Cognative AI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
+                "file": "Work in Progress/Cognative AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use-cases/Peace Infrastructure Project/Social Attack Vectors.md"
+                "file": "Work in Progress/Cognative AI.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,17 +147,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "babd22ffc94d5135",
+  "active": "2b46fc4f8c3bb70e",
   "lastOpenFiles": [
-    "README.md",
-    "About/Social Factors.md",
-    "Existing Ecosystems/Non-HTTP(s) Protocols.md",
-    "Existing Ecosystems/Non-HTTP(s) Protocols/WebRTC.md",
-    "Existing Ecosystems/Non-HTTP(s) Protocols/WireGuard.md",
-    "Existing Ecosystems/Non-HTTP(s) Protocols/WebSockets.md",
-    "Work in Progress.md",
-    "Documentation Method.md",
-    "About/What are 'The Commons'.md",
-    "Existing Ecosystems/Open-Data.md"
+    "use-cases/Peace Infrastructure Project/Safety Protocols/Human Centric AI.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Fake News.md",
+    "About/old-work-archives/Value Accounting Initiatives.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dishonesty.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dehumanisation.md",
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Temporal Attacks.md",
+    "Work in Progress/Minimum Wages.md",
+    "Permissive Commons/Problem Statement.md",
+    "Permissive Commons/Permissive Commons Tech.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 Permissive Commons Technology changes the way commons knowledge is managed on the internnet.  The intended purpose of it is act to decentralise commons resources and extends existing works on 'open-data' alongside other decentralised software projects whilst adding more functionality as a consequence of the abillity to use permission structures in relation to assets.  
 
-This is basically a type of work that is a form of [[Web Science]] related fields of expertise.
+This is basically a type of work that is a form of [[What is Web Science]] related fields of expertise.
 
 Permissive Commons related documents;
 - [[Permissive Commons Tech]]

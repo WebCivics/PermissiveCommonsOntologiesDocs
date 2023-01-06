@@ -38,5 +38,5 @@ In a similar yet different area; a person may be charged with the responsibility
 
 So the learning modals, seek to support sense-making to more rapidly produce contextually useful insights and related links that support a means to process the circumstances of a persons learning and seek to mitigate risks of events that may lead to disputes and/or [[Social Attack Vectors]] that may negatively impact a legal entities [[ESG]] and/or insurability status.
 
-Additionally, the objective is to produce systems that can provide categorised qualification  [[Ontologies]] and [[Temporal Semantics]] that is in-turn intended to support [[Cognative AI]] processes (noting the importance of: [[HumanCentric Digital Identity]] ) and thereby providing support for [[Verifiable Claims & Credentials]] in relation to this field of [[Web Science]] and its means to address various [[Social Factors]].
+Additionally, the objective is to produce systems that can provide categorised qualification  [[Ontologies]] and [[Temporal Semantics]] that is in-turn intended to support [[Cognative AI]] processes (noting the importance of: [[HumanCentric Digital Identity]] ) and thereby providing support for [[Verifiable Claims & Credentials]] in relation to this field of [[What is Web Science]] and its means to address various [[Social Factors]].
 

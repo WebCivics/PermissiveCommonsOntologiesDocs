@@ -17,6 +17,7 @@ Some examples include; in no particular order,
 - [IPFS](IPFS.md)
 - [WebTorrent](WebTorrent.md)
 - [GIT](GIT.md) as is used for GitHub / GitLab, etc. 
+- [[Holochain]]
 
 Obviously also, there's also major 'crypto currency' focused protocols like [BitCoin](https://en.wikipedia.org/wiki/Bitcoin) and [Ethereum](https://en.wikipedia.org/wiki/Ethereum).  
 

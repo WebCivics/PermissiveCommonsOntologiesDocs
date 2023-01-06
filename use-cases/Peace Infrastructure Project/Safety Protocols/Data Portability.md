@@ -22,7 +22,7 @@ Nonetheless; part of the objectives, as to support the safety protocols requirem
 
 The Webizen Ecosystems has an array of Values Frameworks, which are sought to be enforcable.  This may mean that a person who is shown to have acted in a way that invokes the need to act as to protect the rights of others in a way that is considered extremely serious; and ideally also, as should in-turn be made able to be considered by a court of law; then, the consequences may be that the [[Temporal Semantics]] are considered negative to an extent whereby the webizen owner wants to migrate away, to a system that may in-turn support different Values (ie: an environment that does not support [[Values Credentials]]).
 
-As such, Whilst there are an array of very difficult considerations that need to be worked through as a [[Web Science]] problem, the underlying belief is that the closest technical solution; is likely to be related to the [Solid Specifications](https://solidproject.org/specification) and in-turn [solid protocol](https://solidproject.org/TR/protocol) which needs to be supported for interoperability purposes anyway. 
+As such, Whilst there are an array of very difficult considerations that need to be worked through as a [[What is Web Science]] problem, the underlying belief is that the closest technical solution; is likely to be related to the [Solid Specifications](https://solidproject.org/specification) and in-turn [solid protocol](https://solidproject.org/TR/protocol) which needs to be supported for interoperability purposes anyway. 
 
 From an Artificial Intelligence perspective, a means for people to migrate needs to be considered.  the options to achieve these sorts of outcomes, have not been evaluated yet.
 

@@ -1,11 +1,14 @@
-The concept of Decentralised IDentifiers was first raised on the [W3C WebPayments Mailing list in 2014 by Manu Sporny](https://lists.w3.org/Archives/Public/public-webpayments/2014May/0033.html) who originally registered the [URI Scheme with IANA](https://web.archive.org/web/20181225121742/https://www.iana.org/assignments/uri-schemes/prov/did)
+The concept of Decentralised IDentifiers was first raised on the [W3C WebPayments Mailing list in 2014 by Manu Sporny](https://lists.w3.org/Archives/Public/public-webpayments/2014May/0033.html) (and Dave Longley who originally registered the [URI Scheme with IANA](https://web.archive.org/web/20181225121742/https://www.iana.org/assignments/uri-schemes/prov/did)
 
 (whilst i'm noted - often the context of these calls was that they were held in the early hours of the morning (ie: 3AM Sydney/AU Time)).
 
-whilst the works have developed significantly, there are some particular use-cases relating to a concept called [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) that has been the primary focus of these works.
+Whilst the works have developed significantly, there are some particular use-cases relating to a concept called [Self Sovereign Identity](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html) that has been the primary focus of these works.
+
+From my point of view, the useful purpose of DIDs in particular (not withstanding others); was to support the permissive commons requirements in a standardised sort of way.  
 
 Whilst i am supportive of the use of a method to support non-http uris for resources that make use of linked data / RDF and related ecosystem technologies, i am presently unsure whether and/or how well, the DID specifications now provide a fit-for-purpose solution, and there's been some fairly emotionally explosive history, relating to the history of this tech.
 
+### Top Level Resources
 - IANA: https://www.iana.org/assignments/uri-schemes/prov/did 
 - IETF https://datatracker.ietf.org/doc/html/draft-mayrhofer-did-dns-05
 - W3C
@@ -22,9 +25,12 @@ Whilst i am supportive of the use of a method to support non-http uris for resou
 
 and many others...  (note; [DID methods registry](https://github.com/w3c/did-spec-registries/tree/main/methods))
 
+#### Discomfort
+
+Perhaps part of my problem could be based upon upset relating to my personal experiences, and that the technological output is indeed fit for purpose; yet the problems that i am concerned about stem from issues that do not relate to the specifications.  This is something that i will work through to figure out more formally.  I note, that the commercialisation of DIDs via Vaccine Passports - horrified me.  I felt personally let down, and deeply concerned and upset about the implications.
 
 ### Bit of History.
-I was involved with the beginnings of this work, whereby i particularly supported Manu Spory as the Brains Trust for this and related works.  The earlier history involved works on [Web Payments Standards](https://www.w3.org/community/webpayments/) which led to [Credentials CG](https://www.w3.org/community/credentials/2014/08/06/call-for-participation-in-credentials-community-group/) which was originally focused on Verifiable Claims and improving the [[Open Badges]] standards; which overtime led to DIDs.
+I was involved with the beginnings of this work, whereby I particularly supported Manu Spory as the Brains Trust for this and related works.  The earlier history involved works on [Web Payments Standards](https://www.w3.org/community/webpayments/) which led to [Credentials CG](https://www.w3.org/community/credentials/2014/08/06/call-for-participation-in-credentials-community-group/) which was originally focused on Verifiable Claims and improving the [[Open Badges]] standards; which overtime led to DIDs.
 
 Prior to the creation of Decentralised Identifiers, previous projects included WebDHT and HTTPA.  The hope was that DIDs were going to be the solution for providing permissive commons; however in more recent years, the works appear to have taken a turn towards being defined by many as 'Decentralised IDentity' which has some percieved problems, that i do not like or support; noting, that the underlying issues relating to these percieved problems are complex, and that i very much support the ability to have Verifiable Claims and Verifiable Credentials.
 
@@ -60,7 +66,7 @@ I am particularly concerned about the idea of 'private webs', particularly those
 
 As the [DID methods registry](https://github.com/w3c/did-spec-registries/tree/main/methods) somewhat already demonstrates; there has seemingly been a rush to obtain namespaces; and this may in-turn illustrate what may be considered, problematic circumstances.  For instance; the Namespace defined as [did:health](https://github.com/w3c/did-spec-registries/commit/347608e6903fd2c9cc867e6949a86f615f1db266) refers to the information noted below
 
-```
+```json
 
 {
   "name": "health",
@@ -78,7 +84,7 @@ Then, when going to https://www.did.healthcare/ the site is redirected to: https
 
 In the example for the term [DID:ID](https://github.com/w3c/did-spec-registries/commit/1fdde3119fd968b496f5ab104994eea09222ffef), the method is registered to Mastercard.
 
-``` 
+```json 
 
 {
     "name": "id",
@@ -92,12 +98,45 @@ In the example for the term [DID:ID](https://github.com/w3c/did-spec-registries/
 
 ```
 
+The Below [record](https://github.com/w3c/did-spec-registries/commit/6d12ed8bee1120f72dc9fdcc44ffc0cf8890e8d5) describes itself. further information is available [here](https://github.com/microsoft/did-ccf/blob/main/DID_CCF.md)
+```json
+{
+    "name": "ccf",
+    "status": "registered",
+    "verifiableDataRegistry": "CCF",
+    "contactName": "Microsoft",
+    "contactEmail": "bmurdoch@microsoft.com",
+    "contactWebsite": "https://www.microsoft.com/en-us/research/project/confidential-consortium-framework/",
+    "specification": "https://github.com/microsoft/did-ccf/blob/main/DID_CCF.md"
+  }
+```
 
-note also: https://github.com/microsoft/did-ccf/blob/main/DID_CCF.md
- 
-There are other examples; yet, yet without spending more time on the details; it may well be that the way the `did` specification has been developed, are not fit for purpose for PCT-ONT.
+The [ion](https://github.com/w3c/did-spec-registries/blob/main/methods/ion.json) methods refers to the project by [identity.foundations](https://identity.foundation/ion/)
+```json
+{
 
-Nonetheless, more investigation is required to better evaluate the decentralised nature of decentralised identifiers, etc. 
+"name": "ion",
+
+"status": "registered",
+
+"verifiableDataRegistry": "Bitcoin",
+
+"contactName": "Various DIF contributors",
+
+"contactEmail": "",
+
+"contactWebsite": "",
+
+"specification": "https://github.com/decentralized-identity/ion-did-method"
+
+}
+```
+
+The complete list will be analysed and derivative information will be provided once that has occurred. 
+
+It may well be that the way the `did` specification has been developed, are not fit for purpose for PCT-ONT; yet, it may also be found that my fears, are not supported by the technical characteristics of what has been produced; regardless of how some people might seek to use them.  The thing about making tools - for example - a hammer - is that, its impossible to ensure that they're only used for good purposes - as tools can be used for good or evil.
+
+More investigation is required to better evaluate the decentralised nature of decentralised identifiers, etc. 
 
 As noted, I was personally very emotional about the global rollout of 'vaccine passports' and the entire situation disaffected me greatly, as such i do have personal views - which i am entitled to have and express - whilst seeking to do so, clearly - rather than doing otherwise.
 
@@ -111,3 +150,4 @@ In-order to support inter-national world order, whereby each UN recgonised membe
 
 The underlying methodology for defining how a decentralised ontology (PCT-ONT) standards compatible system works, may simply provide a series of ontological references that in-turn enable the client (end users) to get the resource from whatever network they prefer to use themselves; thereby, leading to a situation where the information can be collected from a range of different networks, rather than solely being available on one network (ie: DID:ID).
 
+The belief is that these systems are going to play a major role in the future; and the question becomes, whether or not it has anything to do with PCT or whether and/or how other systems either support DIDs as a primary solution or via some sort of backwards compatibility related solutions - as may be required by [[Webizen]] for 'wallet' functionality.
