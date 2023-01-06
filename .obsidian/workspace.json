@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Permissive Commons/Requirements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Permissive Commons/Requirements.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Permissive Commons/Requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Permissive Commons/Requirements.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c5f78ca68b9f5a59",
   "lastOpenFiles": [
+    "About/Decentralised Ontologies.md",
+    "README.md",
     "use-cases/Peace Infrastructure Project/Social Attack Vectors/Commercial Exploitation.md",
     "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
     "use-cases/Peace Infrastructure Project/Safety Protocols.md",
@@ -156,8 +158,6 @@
     "Work in Progress/Cognative AI.md",
     "use-cases/Peace Infrastructure Project/Safety Protocols/Values Credentials.md",
     "use-cases/Peace Infrastructure Project/Safety Protocols/Human Centric AI.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Fake News.md",
-    "About/old-work-archives/Value Accounting Initiatives.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Dishonesty.md"
+    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Fake News.md"
   ]
 }
