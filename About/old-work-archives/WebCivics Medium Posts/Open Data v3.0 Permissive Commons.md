@@ -344,6 +344,8 @@ One such way is rich-media, where the EU funded [Mico Project](http://mico-proj
 
 One of the stories in this show illustrates a narrative about a computer vision tool that is first funded as a tool to identify food.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIci3C4JkL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 HBO: Silicon Valley Season 4 Episode 4 ‘Seefood Technologies and ‘Not Hot Dog’
 
 What this illustrates; is that, no-matter whether or not any choices are made, the vast global silo’d infrastructure that is moreover converged into the community of california (and Californian law) have enormous data capabilities to see what is actually going on. These tools are applied to media online, and the derivative services made available via a proprietary API.

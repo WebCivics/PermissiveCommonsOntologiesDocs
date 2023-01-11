@@ -9,7 +9,7 @@
 ## The New Webizen
 Webizen is Independent to the project known as Solid (formerally [#rww](https://www.w3.org/community/rww/)) as run by [inrupt](https://www.inrupt.com). 
 
-This folder contains information about the technology stack being produced as [[Webizen 3.0]].  Much as was said to be the case about #RWW & #CrossCloud, #Webizen is likely to have a different sort of approach.  For more information see: [[Work in Progress]]
+This folder contains information about the technology stack being produced as [[Webizen 3.0]].  Much as was said to be the case about #RWW & #CrossCloud, #Webizen is likely to have a different sort of approach.  For more information see: [[WorkInProgress]]
 
 
 ### What does Webizen Mean?
@@ -24,20 +24,22 @@ When Asking #ChatGPT to define the Term Webizen; it says,
 
 Whereas; when i consider the term 'Webizen', what i'm thinking about is future [[Artificial Minds]] that are owned by human beings to be their assistant and support their needs. 
 
-The [[PCT-Webizen Tech Stack]] is in-effect, the creation of an ecosystem solution that provides support for [[Human Centric AI]] as is instrumental for [[HumanCentric Digital Identity]] systems.
+The [[PCT-WebizenTechStack]] is in-effect, the creation of an ecosystem solution that provides support for [[HumanCentricAI]] as is instrumental for [[HumanCentricDigitalIdentity]] systems.
 
 ### About Webizen Systems
 As this documentation environment presents; The webizen systems, are designed in a particular way to support a particular type of ecosystem outcome that considers both a variety of technology related factors and requirements, in addition to various social factors and related considerations and implications. 
 
+![[webizen_diagram_1-2.jpg]]
+
 These systems become assembled to provide a different type of Computing Environment, which in-turn provide the opportunity to produce different types of Apps, that have different types of capabilities, functionality and features. 
 
-There are a series of principals relating to structure of these designs.  In-turn, the outcome is far greater than the sum of its parts...  In-effect, the environment provides a different sort of toolkit or apparatus, that is intended to support safety and the safe use of democratised [[Human Centric AI]].   The way this is emboided for social purposes, is that the environment produces an ecosystem solution to support a particular class of [[Artificial Minds]] that are in-turn what it is that the meaning of webizen is intended to define, in future. 
+There are a series of principals relating to structure of these designs.  In-turn, the outcome is far greater than the sum of its parts...  In-effect, the environment provides a different sort of toolkit or apparatus, that is intended to support safety and the safe use of democratised [[HumanCentricAI]].   The way this is emboided for social purposes, is that the environment produces an ecosystem solution to support a particular class of  that are in-turn what it is that the meaning of webizen is intended to define, in future. 
 
 ### The Future Webizen Agents
 
 ![[WebizenPeaceBot.png]]
 
-The Future Webizen Agents, are a type or class of Artificial Intelligent Agent that have a series of particular qualities; and importantly also, an array of [[Safety Protocols]] that works effectively to ensure that other forms of Artificial Minds are not able to both be called or be made able to work on the [[PCT-Webizen Tech Stack]] and still be compliant with [[The Webizen Charter]].
+The Future Webizen Agents, are a type or class of Artificial Intelligent Agent that have a series of particular qualities; and importantly also, an array of [[Safety Protocols]] that works effectively to ensure that other forms of Artificial Minds are not able to both be called or be made able to work on the [[PCT-WebizenTechStack]] and still be compliant with [[TheWebizenCharter]].
 
 ### Digital Twins vs. Webizen
 

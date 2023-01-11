@@ -3,7 +3,7 @@
 This document will provide an index of the usecases that have been considered, and provide links to those use-case related works.
 
 The current structure of these usecases are primarily orientated towards the production of the requirements needed fo the [[Webizen]] project, whilst also triaging the broader
-[[Peace Infrastructure Project]] as a *loosely coupled* concept, in an effort to maintain some level of hygiene overall.  Noting, the libraries and/or solutions produced for Webizen will be made permissively available for use more broadly in anycase.   The structure of these folders will change and the works continue to develop.
+[[PeaceInfrastructureProject]] as a *loosely coupled* concept, in an effort to maintain some level of hygiene overall.  Noting, the libraries and/or solutions produced for Webizen will be made permissively available for use more broadly in anycase.   The structure of these folders will change and the works continue to develop.
 
 Whilst almost all (if not all) use-cases relate to the production of technology for the good of humanity (thereby being a 'web civics' project); the focus on the above noted categories specifically - will develop - to provide improved categorisation of works that relate to supporting applications via other platform solutions; which is essentially part of the broader Peace Infrastructure Project Objectives more broadly.  
 

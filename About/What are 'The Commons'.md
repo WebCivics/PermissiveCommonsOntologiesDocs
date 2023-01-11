@@ -6,7 +6,7 @@
 Source: [legal dictionary](https://legal-dictionary.thefreedictionary.com/common)
 
 #### The Moral Considerations
-In-effect, the consideration related to the design of [[Webizen]] and [[Peace Infrastructure Project]] related works was, that in-order to protect [[Freedom of Thought]] there needed to be a series of designs to support both [[Human Centric AI]] and in-turn the manifestation of [[HumanCentric Digital Identity]] in a way that supported the [[No Lock-ins]] and broader [[Safety Protocols]] built into the ecosystems.  In-effect, as is one of the many topics of [[The Values Project]] the ability for people to have their fundamental human rights supported in a way that supports principals such as privacy and moreover the requirements people have in-order to support human dignity.  This requires a means to decentralise the publically consumable knowledge of mankind in such a way that provides us, members of our human family as beneficiaries of these bodies of knowledge; to in-effect, be furnished a means to make use of that information using modern societal tools in a way that does not require us to submit to unwanted abuses of human rights. 
+In-effect, the consideration related to the design of [[Webizen]] and [[PeaceInfrastructureProject]] related works was, that in-order to protect [[FreedomofThought]] there needed to be a series of designs to support both [[HumanCentricAI]] and in-turn the manifestation of [[HumanCentricDigitalIdentity]] in a way that supported the [[NoLock-ins]] and broader [[Safety Protocols]] built into the ecosystems.  In-effect, as is one of the many topics of [[TheValuesProject]] the ability for people to have their fundamental human rights supported in a way that supports principals such as privacy and moreover the requirements people have in-order to support human dignity.  This requires a means to decentralise the publically consumable knowledge of mankind in such a way that provides us, members of our human family as beneficiaries of these bodies of knowledge; to in-effect, be furnished a means to make use of that information using modern societal tools in a way that does not require us to submit to unwanted abuses of human rights. 
 
 #### The SocioEconomic Factors
 
@@ -20,7 +20,7 @@ Overall; there are a few variables that relate to issues that have manifested as
 
 ### The Technical Factors
 
-In-order to support [[Human Centric AI]] and [[HumanCentric Digital Identity]] commons information needs to be formatted into [[Semantic Web]] standards related formats, and this should be done in a way where it is clear who defined the content of the resource (ie: a human being, a company or legal entity or a software agent); and then it needs to be able to be processed locally, without providing constant updates to the providers of any such resources that are essential for the use of computing systems in life.  
+In-order to support [[HumanCentricAI]] and [[HumanCentricDigitalIdentity]] commons information needs to be formatted into [[Semantic Web]] standards related formats, and this should be done in a way where it is clear who defined the content of the resource (ie: a human being, a company or legal entity or a software agent); and then it needs to be able to be processed locally, without providing constant updates to the providers of any such resources that are essential for the use of computing systems in life.  
 
 ## Introductory Summary
 

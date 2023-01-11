@@ -1,0 +1,3 @@
+The Permissive Commons technology must be developed 'for the good of humanity', and whilst this production of this technology is considered to be an important part of the webizen ecosystem; the use of the permissive commons technology should not require users to have purchased a webizen or be required to participate in the webizen network; other than where necessary in relation to specified and unadvoidable webizen related usecases. 
+
+The software license for making use of Permissive Commons Technology should seek to instill some basic values that are considered reasonably shared as universal values for all of mankind.  Further specificity is to be defined at a later stage...  

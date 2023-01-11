@@ -16,5 +16,5 @@ The abbreviation **FAIR/O data** is sometimes used to indicate that the datase
 
 Open-Data is usually provided via systems like [ckan](https://en.wikipedia.org/wiki/CKAN) (although not exclusively) and generally provide information in spreadsheet like formats such as [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) or as a data-service via [json](https://en.wikipedia.org/wiki/JSON) - Yet, these formats do not easily provide provonance or historical versions of the same information and the ability to manage the permissions of the file is not built into the readily employed file download formats (CSVs); so, there is potential for the information in the file to be changed.  Then the other issue is that the structure of the files haven't been defined using RDF [[Ontologies]] so, it is more difficult or more expensive (time/energy) to create software that can make use of this information with other datasets. 
 
-[[Permissive Commons]] uplifts Open-Data towards [[Open Data v3.0 Permissive Commons]].
+[[PermissiveCommons]] uplifts Open-Data towards [[Open Data v3.0 Permissive Commons]].
 

@@ -13,13 +13,122 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permissive Commons/Requirements.md",
+                "file": "use-cases/PeaceInfrastructureProject/SocialAttackVectors/Dishonesty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7031f5298d0c6187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f6c4f721131ca3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d851307d8b996dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/CryptographicSignatures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a70040d56540ea58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/EnergyConsumption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c9bde44265dc409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/SocioEconomicRelations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "beb71e21fdc9bf9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/VersionControl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf28c7a67d6ff65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/CryptographicSignatures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eec8ed8bc839d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/CryptographicSignatures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4781810532ce2213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/TemporalSemantics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -48,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dns",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permissive Commons/Requirements.md",
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/SocioEconomicRelations.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permissive Commons/Requirements.md",
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/SocioEconomicRelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permissive Commons/Requirements.md"
+                "file": "PermissiveCommons/Requirements/Engineering Considerations/SocioEconomicRelations.md"
               }
             }
           }
@@ -147,17 +256,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c5f78ca68b9f5a59",
+  "active": "1c9bde44265dc409",
   "lastOpenFiles": [
-    "About/Decentralised Ontologies.md",
-    "README.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Commercial Exploitation.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors.md",
-    "use-cases/Peace Infrastructure Project/Safety Protocols.md",
-    "use-cases/Webizen/Economic Systems/Webizen Alliance/The Webizen Charter.md",
-    "Work in Progress/Cognative AI.md",
-    "use-cases/Peace Infrastructure Project/Safety Protocols/Values Credentials.md",
-    "use-cases/Peace Infrastructure Project/Safety Protocols/Human Centric AI.md",
-    "use-cases/Peace Infrastructure Project/Social Attack Vectors/Fake News.md"
+    "PermissiveCommons/Requirements/Engineering Considerations/EnergyConsumption.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/CryptographicSignatures.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/TemporalSemantics.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/DNS Considerations.md",
+    "PermissiveCommons/Requirements/Engineering Considerations.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/VersionControl.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/ForTheGoodOfHumanity.md",
+    "PermissiveCommons/Requirements/Engineering Considerations/PublishingWorkflow.md",
+    "ExistingEcosystems/Non-HTTP(s) Protocols/DAT-HyperCore.md",
+    "ExistingEcosystems/Non-HTTP(s) Protocols.md"
   ]
 }
