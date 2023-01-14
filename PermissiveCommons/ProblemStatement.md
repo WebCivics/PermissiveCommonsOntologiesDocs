@@ -4,7 +4,7 @@ Below is a list of different problems that are sought to be considered and addre
 
 The objective outcome is to have a specification that is firstly going to be applied for the [[Webizen]] Ecosystem solutions, yet others may take it up and its being designed to support that sort of outcome.
 
-In the webizen systems, there are agents that are designed using 'artificial intelligence' technologies.  These agents use [[Semantic Web]] technologies - namely, RDF [[Ontologies]], which structures the content in relavent documents and databases in a way that means other systems are able to process that data without needing to produce new APIs (application program interfaces).  Historically, the way these systems have worked is that some groups produce an ontology and then publish it somewhere on the web.  This ontology is then used by other people, processes and systems to structure their electronic documents (databases) so that the information can be consumed by other systems easily. 
+In the webizen systems, there are agents that are designed using 'artificial intelligence' technologies.  These agents use [[SemanticWeb]] technologies - namely, RDF [[Ontologies]], which structures the content in relavent documents and databases in a way that means other systems are able to process that data without needing to produce new APIs (application program interfaces).  Historically, the way these systems have worked is that some groups produce an ontology and then publish it somewhere on the web.  This ontology is then used by other people, processes and systems to structure their electronic documents (databases) so that the information can be consumed by other systems easily. 
 
 These systems have suffered from an array of problems.
 1. The ontologies have either become unavailable on the original location or lost entirely (other than the copies others may have of that document)
@@ -14,7 +14,7 @@ There are also a few different classes of ontologies, some consider the records 
 
 ### Dependencies
 
-In-order to realise solutions for many of these goals, the systems need to be produced in-order to deliver the capacity to resolve the problems; but the practice of producing solutions to these sorts of problems still maintains exposure to various [[SocialAttackVectors]] without [[Safety Protocols]] being operationally useful, as a consequence of the systems to achieve that not being made yet.  They often talk about 'chicken or egg' problems, noting that the answer to that problem is apparently - 'the rooster' - which i hope may illustrate the situation and related challenges.   Historically, i have personally maintained the IP rights in relation to my works; and at some stage, this needs to be transferred into an appropriate organisational structure, which in-turn requires a bunch of complex work and other resources to achieve in a fit-for-purpose manner.
+In-order to realise solutions for many of these goals, the systems need to be produced in-order to deliver the capacity to resolve the problems; but the practice of producing solutions to these sorts of problems still maintains exposure to various [[SocialAttackVectors]] without [[SafetyProtocols]] being operationally useful, as a consequence of the systems to achieve that not being made yet.  They often talk about 'chicken or egg' problems, noting that the answer to that problem is apparently - 'the rooster' - which i hope may illustrate the situation and related challenges.   Historically, i have personally maintained the IP rights in relation to my works; and at some stage, this needs to be transferred into an appropriate organisational structure, which in-turn requires a bunch of complex work and other resources to achieve in a fit-for-purpose manner.
 
 
 
@@ -39,9 +39,9 @@ In-turn part of the fundamental objective is to [[DecentralisedOntologies]] and 
 
 ## Technical Challenges
 
-Different DLTs / [[Non-HTTP(s) Protocols]] have different qualities.  These need to be mapped out.  Yet at least some of these solutions will have different cryptographic characteristics, which will impact the ability to produce trustworthy decentralised informatics (AI) assets.
+Different DLTs / [[Non-HTTP(s)Protocols]] have different qualities.  These need to be mapped out.  Yet at least some of these solutions will have different cryptographic characteristics, which will impact the ability to produce trustworthy decentralised informatics (AI) assets.
 
-The current belief; is that, part of the ontology document should refer to the different [[Non-HTTP(s) Protocols]] locations that the asset can be found on / via (ie: the UUID of the record); and this is unlikely to be best put into every document that makes use of any one of these URIs.  
+The current belief; is that, part of the ontology document should refer to the different [[Non-HTTP(s)Protocols]] locations that the asset can be found on / via (ie: the UUID of the record); and this is unlikely to be best put into every document that makes use of any one of these URIs.  
 
 ### Temporal Semantics
 
@@ -116,7 +116,7 @@ I am presently unaware of how to properly finance this project; other than perha
 ![[cooperativeProjects.jpg]]
 Source: [WebCivics / Cooperative Projects WIP UI](https://webcivics.github.io/CooperativeProjects/projects.html)
 
-As with many of the modules of work, the concepts relating to these things are often quite old, with a background that goes back to sometime during the 00's (ie: 2000-10); and whilst the experience has led me to spend a lot more time focused on how to address [[SocialAttackVectors]] that i've learned about, leading to the desire to produce [[Safety Protocols]] alongside the systems more broadly;  the application of how to do this work well, is been very hard.
+As with many of the modules of work, the concepts relating to these things are often quite old, with a background that goes back to sometime during the 00's (ie: 2000-10); and whilst the experience has led me to spend a lot more time focused on how to address [[SocialAttackVectors]] that i've learned about, leading to the desire to produce [[SafetyProtocols]] alongside the systems more broadly;  the application of how to do this work well, is been very hard.
 
 ![[Answers_meme.jpg]]
 *Original Source/author unknown*
@@ -141,7 +141,7 @@ Nonetheless, the systems are indeed intended to radically improve the means for 
 
 ##### Refactoring UBI?
 
-There has been a widespread uprising of a concept called "Universal Basic Income" or UBI; which has thereafter sought to engender social-security related policies globally, and i've had various concerns about being employed to support digital slavery rather than [[EndingDigitalSlavery]], which in-turn gives rise to various problems relating to the ramifications upon tax (unpaid persons don't pay tax, even if they're provided UBI).  Yet perhaps this concept can be refactored to produce a solution that defines the [[Minimum Wages]] for persons doing useful work, which might then be rationalised by cost-of-living or pricing power parity ecosystems; for the particular purpose, of seeking to ensure persons doing work for the betterment of humanity in a manner that has a usefully positive effect, are not required to invalidate their own humanity for having done so; as is seemingly the expectation of all to many (including governments) today.  So this might be termed 'universal minimum wages' or something? 
+There has been a widespread uprising of a concept called "Universal Basic Income" or UBI; which has thereafter sought to engender social-security related policies globally, and i've had various concerns about being employed to support digital slavery rather than [[EndingDigitalSlavery]], which in-turn gives rise to various problems relating to the ramifications upon tax (unpaid persons don't pay tax, even if they're provided UBI).  Yet perhaps this concept can be refactored to produce a solution that defines the [[MinimumWages]] for persons doing useful work, which might then be rationalised by cost-of-living or pricing power parity ecosystems; for the particular purpose, of seeking to ensure persons doing work for the betterment of humanity in a manner that has a usefully positive effect, are not required to invalidate their own humanity for having done so; as is seemingly the expectation of all to many (including governments) today.  So this might be termed 'universal minimum wages' or something? 
 
 More work needs to be done; and i'm unsure how this relates to the permissive commons ecosystems - yet; other than making a note of the importance of addressing these sorts of issues as is otherwise required for both the [[PeaceInfrastructureProject]] and [[Webizen]] use-cases.
 

@@ -6,7 +6,7 @@ An artifact from an old project that has continued to provide me something to re
 
 Whilst my experiences lead me to consider the fictional nature of how the sentiments connect to the realities and lived experiences of my / our Australian people (understanding that there are problems in all regions of the world, not simply Australia); I have found it useful to refer to the sentiments expressed as an example of the sorts of things that we should be striving to make true; which is the fundamental purpose of The Values Project.
 
-Through the applied use of technology in a particular sort of way, the statements made; both, by the media clips provided below and the underlying instuments, laws and values that they in-turn refer to - can be made far more real for people, who want [[Safety Protocols]].
+Through the applied use of technology in a particular sort of way, the statements made; both, by the media clips provided below and the underlying instuments, laws and values that they in-turn refer to - can be made far more real for people, who want [[SafetyProtocols]].
 
 <iframe src="https://player.vimeo.com/video/30416090?h=f11a48b1df" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/30416090">The Australian Way</a> from <a href="https://vimeo.com/auscivics">AusCivics</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -22,12 +22,11 @@ USA: one of the best American examples i've found is this 5:45 video presenting 
 
 
 
-Fundamentally - one of the primary objecties in the short-term is to define [[ValuesCredentials]] as is required to ensure the [[PCT-WebizenTechStack]] supports the critical requirements illustrated by various topics relating to [[Social Factors]] and in-particular, providing means to support the growth of [[Commercial Models]] particularly therein via the [[WorkProject]].
+Fundamentally - one of the primary objecties in the short-term is to define [[ValuesCredentials]] as is required to ensure the [[PCT-WebizenTechStack]] supports the critical requirements illustrated by various topics relating to [[SocialFactors]] and in-particular, providing means to support the growth of [[Commercial Models]] particularly therein via the [[WorkProject]].
 
 NOTE ALSO:
-- [[Open Badges]]
-- [[Verifiable Credentials]]
-- [[Verifiable Claims & Credentials]]
+- [[OpenBadges]]
+- [[VerifiableClaimsAndCredentials]]
 - [[PermissiveCommonsTech]]
 
 
@@ -106,13 +105,13 @@ The specification goals seek to outline what it is that the design is attempting
 There’s a few components to it.
 
 1.  The way in which the ‘[[Ontologies]]’ are handled generally.
-	a. [[Understanding Ontologies]] provides general 'non-technical' information.  
+	a. [[UnderstandingOntologies]] provides general 'non-technical' information.  
       
 2.  Ideally, the moral owners of the ‘[[ValuesCredentials]]’ would be stewards of those instruments, versions of them, etc.  
     
 3.  Presently HTTP Uris are used for ontologies - DLT/DHT ontologies are useful; as such, the objective is to implement [[PermissiveCommons]]. SeeAlso; [[PermissiveCommonsTech]]
     
-4.  [[Verifiable Claims & Credentials]] (including the above noted 'values credentials') are also able to be provided by providers / group entities.
+4.  [[VerifiableClaimsAndCredentials]] (including the above noted 'values credentials') are also able to be provided by providers / group entities.
     
 3. There are presently ‘wallets’ that are defined in a particular way, which is in-turn part of a broader ecosystem that is developing.  
     
@@ -197,7 +196,7 @@ Some of these requirements do in-turn require a means to have a safe space to st
 
 ## The use of PNG or SVG Containers
 
-The concept is to use PNG, SVG or other suitably defined image formats as a form of container format for [[Verifiable Claims & Credentials]] is a fairly old concept, that was instrumental to the [[Open Badges]] designs.  The 'image' format (particularly SVG) may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
+The concept is to use PNG, SVG or other suitably defined image formats as a form of container format for [[VerifiableClaimsAndCredentials]] is a fairly old concept, that was instrumental to the [[OpenBadges]] designs.  The 'image' format (particularly SVG) may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
 
 In the future there may be a better definition for a file-container method that becomes standardized as something other than an SVG; nonetheless, its thought - SVGs will do for now. 
 

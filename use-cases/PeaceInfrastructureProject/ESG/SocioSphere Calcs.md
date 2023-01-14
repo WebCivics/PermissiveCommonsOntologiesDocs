@@ -2,6 +2,6 @@ Similarly to [[Biosphere Calcs]] and [[Energy Calcs]] yet distinctly also; the s
 
 Part of the methodologies sought, is to make independent the specified caculation algorithsm; from the information collection methods, that is in-turn built upon [[Ontologies]].
 
-[[Understanding Ontologies]] is an important component of the broader [[What is Web Science]] and related Data Science constituencies, to the sorts of ecosystem capacities that are related to the ability to permissively support socio-sphere caculations (insights). 
+[[UnderstandingOntologies]] is an important component of the broader [[WhatIsWebScience]] and related Data Science constituencies, to the sorts of ecosystem capacities that are related to the ability to permissively support socio-sphere caculations (insights). 
 
 

@@ -12,7 +12,7 @@ Overall, learning is a fundamental aspect of human development and is essential 
 
 ### The Use of Open Badges with Webizen
 
-[[Open Badges]]  can be used to provide recognition of prior learning for knowledge workers via systems that support Webizen AI agents in a number of ways:
+[[OpenBadges]]  can be used to provide recognition of prior learning for knowledge workers via systems that support Webizen AI agents in a number of ways:
 
 1.  Recognition of skills and expertise: AI agents can be used to assess the skills and expertise of knowledge workers and issue Open Badges to recognize their learning and achievements. This can help to provide evidence of skills and abilities that may be difficult to demonstrate through traditional methods.
     
@@ -23,10 +23,9 @@ Overall, learning is a fundamental aspect of human development and is essential 
 
 Overall, Open Badges can be a useful tool for providing recognition of prior learning for knowledge workers via systems that support AI agents, helping to provide evidence of skills and expertise and making it easier to share learning and achievements with others.
 
-
 ### Objective
 
-The objective is to improve the way people are able to be supported by recgonition of prior learning applications of [[Cognative AI]] tooling.  These systems will seek to develop an evidence base to support a conclusion that a person can be asserted to have knowledge of concepts, things, fields of expertise and other factors of importance in relation to the performance of new work activities, as is in-turn made possible by the prior performance of activities. 
+The objective is to improve the way people are able to be supported by recgonition of prior learning applications of [[CognitiveAI]] tooling.  These systems will seek to develop an evidence base to support a conclusion that a person can be asserted to have knowledge of concepts, things, fields of expertise and other factors of importance in relation to the performance of new work activities, as is in-turn made possible by the prior performance of activities. 
 
 In-part, what this constituency seeks to form a means to address, relates to innovation in particular; but also, an array of other socio-economic and governance factors.  
 
@@ -40,5 +39,5 @@ In a similar yet different area; a person may be charged with the responsibility
 
 So the learning modals, seek to support sense-making to more rapidly produce contextually useful insights and related links that support a means to process the circumstances of a persons learning and seek to mitigate risks of events that may lead to disputes and/or [[SocialAttackVectors]] that may negatively impact a legal entities [[ESG]] and/or insurability status.
 
-Additionally, the objective is to produce systems that can provide categorised qualification  [[Ontologies]] and [[TemporalSemantics]] that is in-turn intended to support [[Cognative AI]] processes (noting the importance of: [[HumanCentricDigitalIdentity]] ) and thereby providing support for [[Verifiable Claims & Credentials]] in relation to this field of [[What is Web Science]] and its means to address various [[Social Factors]].
+Additionally, the objective is to produce systems that can provide categorised qualification  [[Ontologies]] and [[TemporalSemantics]] that is in-turn intended to support [[CognitiveAI]] processes (noting the importance of: [[HumanCentricDigitalIdentity]] ) and thereby providing support for [[VerifiableClaimsAndCredentials]] in relation to this field of [[WhatIsWebScience]] and its means to address various [[SocialFactors]].
 

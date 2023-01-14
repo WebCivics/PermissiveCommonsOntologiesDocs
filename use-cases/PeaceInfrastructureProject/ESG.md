@@ -10,4 +10,4 @@ ESG criteria are often used by investors as a way to evaluate the sustainability
 
 The Webizen modelling is innately directed towards the development of a modelling that is intended to support [[BiosphereOntologies]], [[SocioSphereOntologies]] and [[SustainableDevelopmentGoals(ESG)]]  alongside [[ValuesCredentials]], [[HumanCentricDigitalIdentity]] and a great deal more.  These models, whilst quite different to the way other apps, platforms, operating systems and more broadly, industry practices work today.  
 
-A great deal of the 'how' is embedded in the insights that can be gained by [[Understanding Ontologies]].
+A great deal of the 'how' is embedded in the insights that can be gained by [[UnderstandingOntologies]].

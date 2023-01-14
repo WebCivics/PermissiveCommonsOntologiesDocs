@@ -2,7 +2,7 @@
 
 There area variety of unwanted behaviours, that are often commercially motivated, that engender some form of lock-in that is contrary to the interests of [[TheValuesProject]] and in-turn also, [[TheWebizenCharter]], [[WebizenAlliance]] and other related considerations.
 
-In-order to support a means to maintain the hygiene of these environments and the underlying moral integrity of the broader objective, [[DataPortability]]  is being designed as one of the [[Safety Protocols]]. 
+In-order to support a means to maintain the hygiene of these environments and the underlying moral integrity of the broader objective, [[DataPortability]]  is being designed as one of the [[SafetyProtocols]]. 
 
 Others include;
 

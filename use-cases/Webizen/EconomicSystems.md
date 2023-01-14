@@ -40,11 +40,11 @@ The effect of these sorts of solutions might in-turn act to improve the performa
 
 1. The nature of these sorts of options shouldn't take away from the ability to support the means for people to be paid via some sort of [[FinancialPaymentTypes]] for work.
    
-2. There must be a good management plan that is supported by [[TheWebizenCharter]] for [[WebizenAlliance]] that acts to ensure these systems are defined in an appropriate manner and in accordance with [[TheValuesProject]] and related [[Safety Protocols]].
+2. There must be a good management plan that is supported by [[TheWebizenCharter]] for [[WebizenAlliance]] that acts to ensure these systems are defined in an appropriate manner and in accordance with [[TheValuesProject]] and related [[SafetyProtocols]].
 
-There are various economic concepts; one that comes to mind is circular economy, yet there are many different concepts that exist.  It is unlikely that I will be the best expert to produce the best descriptions of the specificities of any one of these specific solutions; and broadly, the objective requirement from my point of view, is to describe the higher-level architectual considerations that relate both to the [[Social Factors]] and in-turn the requirements for the [[PCT-WebizenTechStack]].
+There are various economic concepts; one that comes to mind is circular economy, yet there are many different concepts that exist.  It is unlikely that I will be the best expert to produce the best descriptions of the specificities of any one of these specific solutions; and broadly, the objective requirement from my point of view, is to describe the higher-level architectual considerations that relate both to the [[SocialFactors]] and in-turn the requirements for the [[PCT-WebizenTechStack]].
 
-As people in different fields are able to use apps made for [[Webizen 3.0]] or greater, [[Understanding Ontologies]] to produce solutions designed to work in the ecosystems; then, it is believed that there will be an array of new opportunities in this area to help [[EndingDigitalSlavery]] and in-turn also, support [[FairWorkProtocols]].
+As people in different fields are able to use apps made for [[Webizen 3.0]] or greater, [[UnderstandingOntologies]] to produce solutions designed to work in the ecosystems; then, it is believed that there will be an array of new opportunities in this area to help [[EndingDigitalSlavery]] and in-turn also, support [[FairWorkProtocols]].
 
 Fundamentally, there's two main 'modalities' related to the use of online systems; people are either consuming or contributing, and whilst the distinction between the two when able to be processed at an atomic level (meaning - high-grade granularity) in a way that can associate with economic systems - the nature of the broader environment changes alot. 
 

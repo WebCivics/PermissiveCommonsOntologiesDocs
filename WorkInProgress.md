@@ -25,7 +25,7 @@ The process of producing the documentation; will include output to address,
 	
 4. Creating an Architectural Strategy for implementing Permissive Commons Ontologies.
 	a. Functionality Objectives
-	b. Comparison of [[Non-HTTP(s) Protocols]] for the purpose of PCT Ontologies.
+	b. Comparison of [[Non-HTTP(s)Protocols]] for the purpose of PCT Ontologies.
 	c. Evaluation of candidate approaches in relation to [[Use-Cases]].
 	
 5. The Application of PCT-Ontologies via Webizen Ecosystems.
@@ -34,8 +34,9 @@ The process of producing the documentation; will include output to address,
    
 7. Working to update the content to address considerations about the many topics, etc.
 
-NOTE:  This documentation environment does not easily provide RDF related functionality and the works on this site is not intended to provide name-space services. 
-
+NOTES:  
+a. This documentation environment does not easily provide RDF related functionality and the works on this site is not intended to provide name-space services. 
+b. The PCT documentation was originally populated from the [Webizen DevDocs](https://devdocs.webizen.org/) repo that was started earlier; thereafter leading to my splitting the documentation out to two repos, which is already resulting in version control issues...  In anycase, theres's links throughout these draft documents (very early stages still) that relate to the [Webizen DevDocs](https://devdocs.webizen.org/) more than is necessarily the case for the [[PermissiveCommonsTech]] related work specifically; although, the two fields of endevour are inextricably linked - [[Webizen]] doesn't work without some sort of PCT implementation. 
 
 #### ISSUES
 
@@ -45,6 +46,6 @@ NOTE:  This documentation environment does not easily provide RDF related functi
 
 3. Whilst the ChatGPT Content provides a helpful start to writing content about a topic, it does need to be updated and reviewed; as such, the new pages where this has been used needs to be reviewed (when i get there)...  It has been found to provide garbage RDF relations when providing ontology related results; whilst also providing valuably useful support, for radically improving the productivity metrics for producing ontology works generally. 
 
-5. There's alot of work required to identify and thereafter create useful feature / functionality charts that relate to the functionality of various different types of [[Non-HTTP(s) Protocols]] relating to decentralisation of informatics.  I suspect this will take sometime to do well.
+5. There's alot of work required to identify and thereafter create useful feature / functionality charts that relate to the functionality of various different types of [[Non-HTTP(s)Protocols]] relating to decentralisation of informatics.  I suspect this will take sometime to do well.
 
 

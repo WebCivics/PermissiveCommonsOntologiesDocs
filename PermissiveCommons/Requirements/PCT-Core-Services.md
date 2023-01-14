@@ -4,4 +4,4 @@ These include;
 - [[DecentralisedOntologies]]
 - [[PermissiveCommons]]
 - [[TemporalSemantics]]
-- [[Verifiable Claims & Credentials]]
+- [[VerifiableClaimsAndCredentials]]

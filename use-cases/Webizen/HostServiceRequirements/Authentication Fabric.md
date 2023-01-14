@@ -11,10 +11,10 @@ A variety of host-fingerprinting information is employed and thereafter supporte
 NB: https://github.com/jaypipes/ghw
  
 ### Network Authentication tooling
-The "Network" Authentication fabric makes use of IPv4/IPv6 (preferred) tooling, alongside DNS, TLS, [Verifiable Claims & Credentials](Verifiable%20Claims%20&%20Credentials.md) and [WebID-OIDC](Semantic%20Web/SemWeb-AUTH/WebID-OIDC.md)
+The "Network" Authentication fabric makes use of IPv4/IPv6 (preferred) tooling, alongside DNS, TLS, [VerifiableClaimsAndCredentials](VerifiableClaimsAndCredentials.md) and [WebID-OIDC](Semantic%20Web/SemWeb-AUTH/WebID-OIDC.md)
 
 ### Agent Authentication Tooling
-Agent based authentication links with the semantic authentication chain, alongside [WebID-OIDC](Semantic%20Web/SemWeb-AUTH/WebID-OIDC.md) and [Verifiable Claims & Credentials](Verifiable%20Claims%20&%20Credentials.md) alongside tools such as [WebAuthn](Webizen%20Tech%20Stack/Webizen%203.0/Webizen%20App%20Spec/WebSpec/WebPlatformTools/WebAuthn.md). 
+Agent based authentication links with the semantic authentication chain, alongside [WebID-OIDC](Semantic%20Web/SemWeb-AUTH/WebID-OIDC.md) and [VerifiableClaimsAndCredentials](VerifiableClaimsAndCredentials.md) alongside tools such as [WebAuthn](Webizen%20Tech%20Stack/Webizen%203.0/Webizen%20App%20Spec/WebSpec/WebPlatformTools/WebAuthn.md). 
 
 NOTE
 This document is incomplete.  There's a bunch more that ends-up going into the ecosystem that ends-up supporting a form of safety / security 'fabric' that (afaik) is unlike others.

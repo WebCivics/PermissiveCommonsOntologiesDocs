@@ -1,0 +1,5 @@
+# Nobody AI 
+
+ #NobodyAI  refers to a concept where decisions about the lives of persons may be made by an AI Agent in a manner that is sought to be employed for the purpose of ensuring that no human being is liable for the consequences that may negatively impact other human beings an AI (software agent) had / instigated / engendered.  This refers to design paradigms that are the opposite of [[HumanCentricAI]] and is somewhat closely related to various other forms of wrong-doing where the victim of wrong-doing is sought to be convinced that no natural persons within an organisation (legal personality) are responsible for the consequences that occurred to a victim that was subject to wrongs by that entity.
+
+These sorts of attack vectors are distinct to circumstances where some risk is associated with the use of tools that are subject to known agreements between legal entities and related natural persons. 

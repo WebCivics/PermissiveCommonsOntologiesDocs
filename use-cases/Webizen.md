@@ -9,7 +9,15 @@
 ## The New Webizen
 Webizen is Independent to the project known as Solid (formerally [#rww](https://www.w3.org/community/rww/)) as run by [inrupt](https://www.inrupt.com). 
 
-This folder contains information about the technology stack being produced as [[Webizen 3.0]].  Much as was said to be the case about #RWW & #CrossCloud, #Webizen is likely to have a different sort of approach.  For more information see: [[WorkInProgress]]
+The technology stack being produced as [Webizen 3.0](https://devdocs.webizen.org/WebizenTechStack/Webizen3.0/) requires the development of  [[PermissiveCommonsTech]]. 
+
+(As is illustrated in the image / diagram below)
+
+The 'Webizen Agent' requires both; a means to support the distribution, storage and use of information that is relied upon by more than one person (a 'commons') as well as a means to privately store and operate their own personal information.  
+
+A great deal of the underlying historical work related to and intended to employ derivatives that were produce via the #RWW & #CrossCloud related projects; which is in-turn what the name #Webizen is intended to pay tribute to, whilst likely to have a different sort of approach than has otherwise been demonstrated by #Solid.  
+
+For more information see: [[WorkInProgress]]
 
 
 ### What does Webizen Mean?
@@ -22,7 +30,7 @@ When Asking #ChatGPT to define the Term Webizen; it says,
 >
 >Overall, the term webizen is used to describe individuals who are actively involved in online communities and who are committed to being responsible and engaged citizens of the internet.
 
-Whereas; when i consider the term 'Webizen', what i'm thinking about is future [[Artificial Minds]] that are owned by human beings to be their assistant and support their needs. 
+Whereas; when i consider the term 'Webizen', what i'm thinking about is future [Artificial Minds](https://devdocs.webizen.org/SocialFactors/WebScience/ArtificialMinds/) that are owned by human beings to be their assistant and support their needs. 
 
 The [[PCT-WebizenTechStack]] is in-effect, the creation of an ecosystem solution that provides support for [[HumanCentricAI]] as is instrumental for [[HumanCentricDigitalIdentity]] systems.
 
@@ -39,7 +47,7 @@ There are a series of principals relating to structure of these designs.  In-tur
 
 ![[WebizenPeaceBot.png]]
 
-The Future Webizen Agents, are a type or class of Artificial Intelligent Agent that have a series of particular qualities; and importantly also, an array of [[Safety Protocols]] that works effectively to ensure that other forms of Artificial Minds are not able to both be called or be made able to work on the [[PCT-WebizenTechStack]] and still be compliant with [[TheWebizenCharter]].
+The Future Webizen Agents, are a type or class of Artificial Intelligent Agent that have a series of particular qualities; and importantly also, an array of [[SafetyProtocols]] that works effectively to ensure that other forms of Artificial Minds are not able to both be called or be made able to work on the [[PCT-WebizenTechStack]] and still be compliant with [[TheWebizenCharter]].
 
 ### Digital Twins vs. Webizen
 
@@ -47,4 +55,4 @@ For a very long time, the work on forming a 'knowledge banking' (previously call
 
 Led me to realise, that there was a pivotal shift that could or moreover should occur. 
 
-What i needed to do, was to form a means to communicate and support the social development of works (on the [[Social Factors]] ) by refocusing the work via a lens that was focused on seeking to get people to think about what sorts of [[Artificial Minds]] it is that they actually want to create.  
+What i needed to do, was to form a means to communicate and support the social development of works (on the [[SocialFactors]] ) by refocusing the work via a lens that was focused on seeking to get people to think about what sorts of  [Artificial Minds](https://devdocs.webizen.org/SocialFactors/WebScience/ArtificialMinds/) it is that they actually want to create.  

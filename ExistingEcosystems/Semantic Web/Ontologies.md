@@ -25,9 +25,15 @@ Prefix.CC search for ontologies ( https://prefix.cc/ )
 
 solid ontologies: https://solidproject.org/developers/vocabularies/well-known/common
 
+
+Other noted ontologies 
+
+- https://github.com/RinkeHoekstra/dp
+- https://github.com/RinkeHoekstra/best-onto 
+
 The work on ontologies is interactive with the work on [[PermissiveCommonsTech]]. 
 
-The most significant area of work that is being produced (somewhat slowly atm) is about [[ValuesCredentials]] which is basically about the ability to create [[Verifiable Credentials]] to support [[Safety Protocols]],  [[CommunityOfPractice]], [[Commercial Models]] and [[HumanCentricDigitalIdentity]].  What this means in practice, is that the existing well known values frameworks that exist (ie: UN instruments, Professional Conduct outlines, etc.); need to be authored into a linked-data format so that they can be used with verifiable credentials, which can in-turn be employed in relation to agreements made between agents (ie: people and/or people and entities or groups). 
+The most significant area of work that is being produced (somewhat slowly atm) is about [[ValuesCredentials]] which is basically about the ability to create [[VerifiableClaimsAndCredentials]] to support [[SafetyProtocols]],  [[CommunityOfPractice]], [[Commercial Models]] and [[HumanCentricDigitalIdentity]].  What this means in practice, is that the existing well known values frameworks that exist (ie: UN instruments, Professional Conduct outlines, etc.); need to be authored into a linked-data format so that they can be used with verifiable credentials, which can in-turn be employed in relation to agreements made between agents (ie: people and/or people and entities or groups). 
 
 Some ontologies are no-longer available at the original location that is defined in the ontology document.  Considerations (options analysis) is underway, to figure out what to do about those sorts of cases.  In other cases, the ontology frameworks are not appropriate and/or outdated.  
 
@@ -35,7 +41,7 @@ Ontology Modelling can include processing ontologies to have inferred comprehens
 
 The greatest of all examples; is that in-effect, a persons life may be described as an ontology.
 
-Some resources have been provided to help people better [[Understanding Ontologies]]  from a social perspective.  Therein, the way [[Semantic Web]]  technologies work, is not simply about software agents; but moreover, about the relationships between software agents, and humanity. There are several qualities of ontological design that are important for technologists to consider when designing human-centric AI systems:  [OpenAI](https://chat.openai.com/) offers the following considerations...  
+Some resources have been provided to help people better [[UnderstandingOntologies]]  from a social perspective.  Therein, the way [[SemanticWeb]]  technologies work, is not simply about software agents; but moreover, about the relationships between software agents, and humanity. There are several qualities of ontological design that are important for technologists to consider when designing human-centric AI systems:  [OpenAI](https://chat.openai.com/) offers the following considerations...  
 
 1.  Inclusivity: The ontology should be inclusive and representative of diverse perspectives and experiences. This can help to ensure that the AI system is fair and unbiased, and that it is able to effectively serve the needs of a diverse user base.
     
@@ -56,4 +62,4 @@ Some resources have been provided to help people better [[Understanding Ontologi
 9.  Sustainability: The ontology should be designed with sustainability in mind, taking into account the long-term maintenance and evolution of the AI system. This can help to ensure that the system is able to continue to serve the needs of users over time.
     
 
-Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[What is Web Science]].
+Overall, it is important for technologists to carefully consider the qualities of ontological design when designing human-centric AI systems, as this can have a significant impact on the effectiveness and usability of the system.  This is in-turn broadly known as [[WhatIsWebScience]].

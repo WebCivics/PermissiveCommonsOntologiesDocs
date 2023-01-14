@@ -2,9 +2,9 @@
 
 ## Summary
 
-Human Centric AI refers to the use of [[Cognative AI]] in connection with [[Centricity]] considerations.  
+Human Centric AI refers to the use of [[CognitiveAI]] in connection with [[Centricity]] considerations.  
 
-Human-Centric AI is a term used to describe artificial intelligence (AI) systems that are designed, in consideration of [[Social Factors]] to ensure that AI systems act as tools and not rulers.  This is important for the preservation of #humanRights and an array of other considerations otherwise considered to be constituencies of the broader [[Safety Protocols]] requirements and related [[What is Web Science]] Paradigms. 
+Human-Centric AI is a term used to describe artificial intelligence (AI) systems that are designed, in consideration of [[SocialFactors]] to ensure that AI systems act as tools and not rulers.  This is important for the preservation of #humanRights and an array of other considerations otherwise considered to be constituencies of the broader [[SafetyProtocols]] requirements and related [[WhatIsWebScience]] Paradigms. 
 
 This type of AI is focused on creating technologies and systems that are both; able to support,
 - Personalised AI Agents; tailored to the needs and preferences of humans, rather than simply optimizing for efficiency or performance; and,
