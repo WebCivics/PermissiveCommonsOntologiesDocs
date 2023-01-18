@@ -12,8 +12,8 @@ Historically also, there has been an 'open data' movement; however these resourc
 
 Some earlier notes include;
 
-- [[Open Data v3.0 Permissive Commons]] (2019)
-- [[Tech for Permissive Commons]] (2019)
+- [[OpenDatav3.0PermissiveCommons]] (2019)
+- [[TechForPermissiveCommons]] (2019)
 - [[the-need-for-decentralised-open-linked-data]] (2018)
 
 (other records available )
@@ -35,7 +35,7 @@ Web 2.0 APIs provide information, whether it be permissioned or public; yet, thi
 
 The concept of 'commons' basically refers to some kind of 'group'.  It could refer to a group of people who live in a particular juristiction, whose governments publish their legislation in a permissive commons format; that provides others the ability to refer to the specific law that existed at a specific time in relation to a contract or other document relating to law is intended to be associated with; in this case, the general public have no ability to modify the records, but they are able to read / consume the records with their Local AI agent. 
 
-Another form of permissive commons may be an array of information about biosphere related things (ie: like wikipedia related assets) or machine learning models; or indeed also, works that relate to a group project, that leads to an ability to support different sorts of business models (note: [[Value Accounting Initiatives]] ). 
+Another form of permissive commons may be an array of information about biosphere related things (ie: like wikipedia related assets) or machine learning models; or indeed also, works that relate to a group project, that leads to an ability to support different sorts of business models (note: [[ValueAccountingInitiatives]] ). 
 
 The concept of [[Ontologies]] is fairly important to understand; noting, one of the greatest purposes of Permissive Commons, is to support means to decentralise 'group' ontologies (is is distinct to personal ontologies). 
 

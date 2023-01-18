@@ -16,7 +16,7 @@ Historical works sought to produce what i called a 'knowledge banking' ecosystem
 
 The commercial deployment of works, particularly those around 'Digital Identity' specifically excluded support for; what is essentially about -human right, even though, the consequence of doing so engendered what is in-effect a choice to institutionally support  [[SocialAttackVectors]].   Within these systems the 'agent' was intended to support the requirements for, what is now being illustrated as [[HumanCentricOntology]].
 
-More information about these former 'designs' is illustrated in documents like [[The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech.]] that have been copied into this documetation repo.  
+More information about these former 'designs' is illustrated in documents like [[TheSemanticInforg&TheHumanCentricWeb — RealityCheckTech]] that have been copied into this documetation repo.  
 
 SO, whilst motified; and subject to on-going harms by people who - i consider simply, to be bad people - i went about trying to figure out how to define this ontology, which involved engaging in debate about it with leading minds world-wide via forum focused on the science of consciousness and all sorts of weird and wonderful advanced concepts therein.  This then led to debates about issues that limited the means to form productive works in the field.
 

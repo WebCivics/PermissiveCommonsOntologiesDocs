@@ -74,8 +74,8 @@ There is also a [Peace Infrastructure Project Group on LinkedIn](https://www.lin
 
 Permissive Commons related documents;
 - [[PermissiveCommonsTech]]
-- [[Open Data v3.0 Permissive Commons]]
-- [[Tech for Permissive Commons]]
+- [[OpenDatav3.0PermissiveCommons]]
+- [[TechForPermissiveCommons]]
 
 There are many different 'usecases' relating to the use of 'permissive commons'.   Permissive Commons, and in-turn Permissive Commons Technology (PCT) Ontologies (PCT-ONT) is required for the [Webizen Project](https://devdocs.webizen.org/) which is the priority for this body of works.
 

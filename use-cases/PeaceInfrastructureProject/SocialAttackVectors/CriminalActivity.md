@@ -3,9 +3,9 @@
 Most Social Attack Vectors actually relate to the performance of criminal activities.  
 
 Here are some examples;
-- [[Corporate Crime]]
-- [[Cyber Crime]]
-- [[Financial Crimes]]
+- [[CorporateCrime]]
+- [[CyberCrime]]
+- [[FinancialCrimes]]
 - [[Fraud]]
 
 and whilst the activity may or may not necessarily be criminal in nature or consequence, the underlying experience i've been made very much aware of; is the consequential ability for persons to thereafter be rendered gainful support via [[PublicSectorWrongDoings]] that can have the effect of all parties involved somewhat jointly seeking to ensure lawful remedy is not made available to the victim of any such forms of attacks, regardless of the consequences put upon that person and/or others relating to them.  These sorts of problems are in-fact very serious and need to be addressed as a matter of priority; particularly, in relation to behaviours that have serious negative implications and/or impacts upon children, and particularly therein - those that relate to the behaviours of adults that target children.

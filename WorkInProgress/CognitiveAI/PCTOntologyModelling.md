@@ -8,7 +8,7 @@ In-order for [[CognitiveAI]] systems to meaningfully support the notion of 'comm
 
 ![[webizen_diagram_1-2.jpg]]
 
-The above diagram was produced as part of the process of seeking to get some sort of grasp on how to address the [[GuardianshipRelations]] problems. Part of the purpose of the illustration, is to denote the difference between a persons 'private and personal' [inforg](https://en.wikipedia.org/wiki/Inforg) (seeAlso: [[The Semantic Inforg & The “Human Centric Web” — Reality Check, Tech.]]) and the resources that are electronically supplied as a consequence of social involvement with others.
+The above diagram was produced as part of the process of seeking to get some sort of grasp on how to address the [[GuardianshipRelations]] problems. Part of the purpose of the illustration, is to denote the difference between a persons 'private and personal' [inforg](https://en.wikipedia.org/wiki/Inforg) (seeAlso: [[TheSemanticInforg&TheHumanCentricWeb — RealityCheckTech]]) and the resources that are electronically supplied as a consequence of social involvement with others.
 
 This is intended to be empowered via [[ValuesCredentials]] which in-turn require core ontologies; that are sought to be delivered using the PCT ecosystems.  
 

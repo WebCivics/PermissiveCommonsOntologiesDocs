@@ -6,8 +6,8 @@ The Permissive Commons concept is like an advancement of 'open-data', whilst add
 
 Permissive Commons related documents;
 - [[PermissiveCommonsTech]]
-- [[Open Data v3.0 Permissive Commons]]
-- [[Tech for Permissive Commons]]
+- [[OpenDatav3.0PermissiveCommons]]
+- [[TechForPermissiveCommons]]
 
 There are a few different 'usecases' relating to the use of 'permissive commons'. 
 
@@ -58,7 +58,7 @@ The storage of information about each 'concept' is intended to support provonanc
 
 For example; is a news-article was written about a particular topic in reliance of a particular 'fact' that was believed to be 'true' at the time; but later, new information shows that the old assumption was in-fact incorrect.  The permissive commons engine would support the ability to contextualise the information both from a perspective of when that article or piece of content was written; and, as the manifest underlying assumptions or representations - whether it be about the circumstances of that time, or any changes that have happened since - can in-turn be contextualised for observers (users), temporallly.
 
-[VerifiableClaimsAndCredentials](VerifiableClaimsAndCredentials.md)
+[VerifiableCredentials](VerifiableCredentials.md)
 
 The verifiable claims element, has various applications / implications; including, the ability to support provonance in relation to who did what; and in-turn, any terms that may relate to those contributions.  
 

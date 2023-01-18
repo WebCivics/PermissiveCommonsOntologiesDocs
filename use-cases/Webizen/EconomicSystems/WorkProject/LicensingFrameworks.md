@@ -1,7 +1,7 @@
 # Licensing Frameworks
 
 
-The Licensing Frameworks for [[KnowledgeWork]] are different to traditional open-source licensing solutions.  The underlying reason for this is to ensure works act towards [[EndingDigitalSlavery]].  People who do useful work, should be compensated; yet, there are a variety of [[ContributionClassifications]] that play a significant role in determining the appropriate structures that may in-turn be linked to [[ProjectFinancing]] methodologies; and in-turn, how they are made to be applied via [[ValuesCredentials]] and [[VerifiableClaimsAndCredentials]] alongside other related systems (ie: [[PermissiveCommonsTech]] ) to deliver an appropriate environment that is consistant with [[TheValuesProject]], [[TheWebizenCharter]] and [[CommunityOfPractice]] principals more broadly. 
+The Licensing Frameworks for [[KnowledgeWork]] are different to traditional open-source licensing solutions.  The underlying reason for this is to ensure works act towards [[EndingDigitalSlavery]].  People who do useful work, should be compensated; yet, there are a variety of [[ContributionClassifications]] that play a significant role in determining the appropriate structures that may in-turn be linked to [[ProjectFinancing]] methodologies; and in-turn, how they are made to be applied via [[ValuesCredentials]] and [[VerifiableCredentials]] alongside other related systems (ie: [[PermissiveCommonsTech]] ) to deliver an appropriate environment that is consistant with [[TheValuesProject]], [[TheWebizenCharter]] and [[CommunityOfPractice]] principals more broadly. 
 
 There are a number of constituencies to how it is thought this will be made able to work. 
 

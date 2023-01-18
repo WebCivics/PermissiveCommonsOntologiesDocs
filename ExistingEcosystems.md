@@ -10,6 +10,6 @@ This folder provides information about protocols other than HTTP(s) as are requi
 
 This work is built upon the use of Semantic Web Technologies.  The objective is to form an interoperability framework to improve the opportunities, functionality, reliability, capabilities and solutions that employ both Semantic Web technologies and in-turn, development of technologies that provide useful improvements from what these systems already do now.
 
-#### [[VerifiableClaimsAndCredentials]] and [[OpenBadges]]
+#### [[VerifiableCredentials]] and [[OpenBadges]]
 
-Broadly considered [[VerifiableClaimsAndCredentials]], i had an involvement in these works at a much earlier stage.  A review of how these systems are presently designed to function; and in-turn considerations about interoperability is required. 
+Broadly considered [[VerifiableCredentials]], i had an involvement in these works at a much earlier stage.  A review of how these systems are presently designed to function; and in-turn considerations about interoperability is required. 

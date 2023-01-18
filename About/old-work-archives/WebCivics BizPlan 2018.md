@@ -1,5 +1,5 @@
 
-NOTE: [[WebCivics Medium Posts]]
+NOTE: [[WebCivicsMediumPosts]]
 
 ## THE GOALS OF THIS PROJECT
 

@@ -1,2 +1,0 @@
-# DataTypesOntology (DTO) Core
-

@@ -26,7 +26,7 @@ Fundamentally - one of the primary objecties in the short-term is to define [[Va
 
 NOTE ALSO:
 - [[OpenBadges]]
-- [[VerifiableClaimsAndCredentials]]
+- [[VerifiableCredentials]]
 - [[PermissiveCommonsTech]]
 
 
@@ -111,7 +111,7 @@ There’s a few components to it.
     
 3.  Presently HTTP Uris are used for ontologies - DLT/DHT ontologies are useful; as such, the objective is to implement [[PermissiveCommons]]. SeeAlso; [[PermissiveCommonsTech]]
     
-4.  [[VerifiableClaimsAndCredentials]] (including the above noted 'values credentials') are also able to be provided by providers / group entities.
+4.  [[VerifiableCredentials]] (including the above noted 'values credentials') are also able to be provided by providers / group entities.
     
 3. There are presently ‘wallets’ that are defined in a particular way, which is in-turn part of a broader ecosystem that is developing.  
     
@@ -196,7 +196,7 @@ Some of these requirements do in-turn require a means to have a safe space to st
 
 ## The use of PNG or SVG Containers
 
-The concept is to use PNG, SVG or other suitably defined image formats as a form of container format for [[VerifiableClaimsAndCredentials]] is a fairly old concept, that was instrumental to the [[OpenBadges]] designs.  The 'image' format (particularly SVG) may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
+The concept is to use PNG, SVG or other suitably defined image formats as a form of container format for [[VerifiableCredentials]] is a fairly old concept, that was instrumental to the [[OpenBadges]] designs.  The 'image' format (particularly SVG) may be interactive / dynamic or may be static.  The Container would then also include the semantic ontology formatted to support presentation of what that asset communicates both in a human readable form and in a format that can be consumed by software agents (rdf).  
 
 In the future there may be a better definition for a file-container method that becomes standardized as something other than an SVG; nonetheless, its thought - SVGs will do for now. 
 
